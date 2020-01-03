@@ -41,6 +41,8 @@ namespace WinFormUI
                 (subTotal) => subTotalTextBox.Text = $"{subTotal:C2}",
                 (products, subTotal) => subTotal - (products.Count * 2),
                 (message) => { });
+
+            totalTextBox.Text = $"{total:C2}";
         }
 
         private void PrintOutDiscountAlert(string message)
