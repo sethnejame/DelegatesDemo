@@ -1,0 +1,12 @@
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\seth\Desktop\Work\DelegatesDemo\WinFormUI\obj\Debug\WinFormUI.pdb
