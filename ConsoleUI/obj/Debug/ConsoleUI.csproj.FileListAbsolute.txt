@@ -1,0 +1,9 @@
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\seth\Desktop\Work\DelegatesDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb

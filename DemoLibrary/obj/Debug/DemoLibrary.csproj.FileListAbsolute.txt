@@ -1,0 +1,5 @@
+C:\Users\seth\Desktop\Work\DelegatesDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\seth\Desktop\Work\DelegatesDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\seth\Desktop\Work\DelegatesDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\seth\Desktop\Work\DelegatesDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\seth\Desktop\Work\DelegatesDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
