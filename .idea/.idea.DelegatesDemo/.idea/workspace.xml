@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0160d70-f9a9-495f-9b77-31347bd0ac37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DelegatesDemo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DelegatesDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DelegatesDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/ConsoleUI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/ConsoleUI.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/ConsoleUI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DemoLibrary/ShoppingCartModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DemoLibrary/ShoppingCartModel.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,13 +16,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleUI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DemoLibrary/ProductModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DemoLibrary/ShoppingCartModel.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ConsoleUI/Program.cs" />
         <option value="$PROJECT_DIR$/DemoLibrary/ShoppingCartModel.cs" />
+        <option value="$PROJECT_DIR$/ConsoleUI/Program.cs" />
       </list>
     </option>
   </component>
@@ -87,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578044231515</updated>
-      <workItem from="1578044232762" duration="1247000" />
+      <workItem from="1578044232762" duration="2469000" />
     </task>
     <servers />
   </component>
@@ -108,21 +104,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="321" key="GridCell.Tab.0.bottom" timestamp="1578044967700">
+    <state width="914" height="321" key="GridCell.Tab.0.bottom" timestamp="1578045487492">
       <screen x="14" y="-1200" width="1920" height="1160" />
     </state>
-    <state width="914" height="321" key="GridCell.Tab.0.bottom/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578044967700" />
-    <state width="914" height="321" key="GridCell.Tab.0.center" timestamp="1578044967700">
+    <state width="914" height="321" key="GridCell.Tab.0.bottom/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578045487492" />
+    <state width="914" height="321" key="GridCell.Tab.0.center" timestamp="1578045487492">
       <screen x="14" y="-1200" width="1920" height="1160" />
     </state>
-    <state width="914" height="321" key="GridCell.Tab.0.center/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578044967700" />
-    <state width="914" height="321" key="GridCell.Tab.0.left" timestamp="1578044967700">
+    <state width="914" height="321" key="GridCell.Tab.0.center/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578045487492" />
+    <state width="914" height="321" key="GridCell.Tab.0.left" timestamp="1578045487492">
       <screen x="14" y="-1200" width="1920" height="1160" />
     </state>
-    <state width="914" height="321" key="GridCell.Tab.0.left/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578044967700" />
-    <state width="914" height="321" key="GridCell.Tab.0.right" timestamp="1578044967700">
+    <state width="914" height="321" key="GridCell.Tab.0.left/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578045487492" />
+    <state width="914" height="321" key="GridCell.Tab.0.right" timestamp="1578045487492">
       <screen x="14" y="-1200" width="1920" height="1160" />
     </state>
-    <state width="914" height="321" key="GridCell.Tab.0.right/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578044967700" />
+    <state width="914" height="321" key="GridCell.Tab.0.right/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578045487492" />
   </component>
 </project>
