@@ -3,16 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b0160d70-f9a9-495f-9b77-31347bd0ac37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DelegatesDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DelegatesDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/ConsoleUI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/ConsoleUI.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/ConsoleUI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/ConsoleUI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WinFormUI/Dashboard.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormUI/Dashboard.Designer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WinFormUI/Dashboard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormUI/Dashboard.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WinFormUI/Dashboard.resx" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormUI/Dashboard.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WinFormUI/obj/Debug/WinFormUI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormUI/obj/Debug/WinFormUI.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormUI/bin/Debug/WinFormUI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormUI/bin/Debug/WinFormUI.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormUI/bin/Debug/WinFormUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormUI/bin/Debug/WinFormUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormUI/obj/Debug/WinFormUI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormUI/obj/Debug/WinFormUI.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinFormUI/obj/Debug/WinFormUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WinFormUI/obj/Debug/WinFormUI.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578044231515</updated>
       <workItem from="1578044232762" duration="5923000" />
-      <workItem from="1578054556401" duration="3559000" />
+      <workItem from="1578054556401" duration="3812000" />
     </task>
     <servers />
   </component>
@@ -143,21 +138,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1578058269412">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1578058772609">
       <screen x="14" y="-1200" width="1920" height="1160" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578058269412" />
-    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1578058269412">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578058772609" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1578058772609">
       <screen x="14" y="-1200" width="1920" height="1160" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578058269412" />
-    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1578058269412">
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578058772609" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1578058772609">
       <screen x="14" y="-1200" width="1920" height="1160" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578058269412" />
-    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1578058269412">
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578058772609" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1578058772609">
       <screen x="14" y="-1200" width="1920" height="1160" />
     </state>
-    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578058269412" />
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1536.824/14.-1200.1920.1160@14.-1200.1920.1160" timestamp="1578058772609" />
   </component>
 </project>
